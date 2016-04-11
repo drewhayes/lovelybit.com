@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf812e80-7975-4b76-9a63-f79e3a384288" name="lovelybit.com" url="http://lovelybit.com">
+        <fileTransfer host="lovelybit.com" port="21" rootFolder="/public_html" username="nerdgod">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
